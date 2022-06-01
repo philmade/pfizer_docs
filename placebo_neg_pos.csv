@@ -1,6 +1,8 @@
 ,USUBJID,ACTARM,PARAM,VISIT,AVALC,ADT
 12678,C4591001 1008 10081302,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-11
 12679,C4591001 1008 10081302,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-10-30
+12751,C4591001 1008 10081338,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-15
+12752,C4591001 1008 10081338,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-11-04
 16485,C4591001 1013 10131122,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-08-10
 16486,C4591001 1013 10131122,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-09-30
 17077,C4591001 1013 10131410,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-02
@@ -281,6 +283,10 @@
 103642,C4591001 1241 12411260,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-10-20
 104459,C4591001 1241 12411601,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-03
 104460,C4591001 1241 12411601,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-10-20
+104665,C4591001 1241 12411688,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-15
+104666,C4591001 1241 12411688,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-11-11
+104683,C4591001 1241 12411695,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-15
+104684,C4591001 1241 12411695,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-12-01
 107891,C4591001 1248 12481120,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-11
 107892,C4591001 1248 12481120,Placebo,N-binding antibody - N-binding Antibody Assay,V3_MONTH1_POSTVAX2_L,POS,2020-11-18
 108475,C4591001 1251 12511159,Placebo,N-binding antibody - N-binding Antibody Assay,V1_DAY1_VAX1_L,NEG,2020-09-11
