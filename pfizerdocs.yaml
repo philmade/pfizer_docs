@@ -1,0 +1,10 @@
+services:
+    metabase:
+      volumes:
+      # setup your SQLITE db (optional)
+        - /home/phillyharper/pfizerdocs/:/metabase
+        - ./metabase-data:/metabase-data
+      ports:
+        - 3000:3000
+      image: metabase/metabase
+      restart: always
