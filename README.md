@@ -30,18 +30,19 @@ the original .xpt file from icandecide and verifies JikkyLeaks original claim.
 The advantage of this is it shows that direct from the court ordered data, we can get the same result.
 
 
-###### The original documents are all posted here:
+## The original documents are all posted here:
 https://www.icandecide.org/pfizer-documents/
 https://phmpt.org/pfizers-documents/
 
-The file we're using for this is linked directly here:
+The file we're using for this is linked directly here
 https://www.icandecide.org/wp-content/uploads/2022/05/FDA-CBER-2021-5683-0123168%20to%20-0126026_125742_S1_M5_c4591001-A-D-adva.zip
 
 Alternatively, direct link via phmpt.org
 https://pdata0916.s3.us-east-2.amazonaws.com/pdocs/050222/FDA-CBER-2021-5683-0123168+to+-0126026_125742_S1_M5_c4591001-A-D-adva.zip
 
 
-###### Twitter Thread that will make you underestand this:
+
+## Twitter Thread that will make you underestand this:
 The thread (obviously) has now been censored
 https://twitter.com/Jikkyleaks/status/1529076970486923264
 
